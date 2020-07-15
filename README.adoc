@@ -1,0 +1,3 @@
+== Dependencies
+
+list of dependencies that I may need to download before going in vacation in an internet-deprived zone
